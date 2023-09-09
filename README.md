@@ -1,1 +1,1 @@
-# Weezer-Programming-Language
+# Weezer Programming Language
